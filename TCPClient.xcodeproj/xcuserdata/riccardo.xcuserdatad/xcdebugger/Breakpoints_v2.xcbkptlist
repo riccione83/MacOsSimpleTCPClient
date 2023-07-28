@@ -3,4 +3,574 @@
    uuid = "D86B3043-F0CD-4AF6-B76E-BDEBF98F3473"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F426405-0911-4928-A563-C43C30FC6865"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "initServer(port:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F426405-0911-4928-A563-C43C30FC6865 - c5b5c780bb026f48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.initServer(port: Swift.UInt16) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6F426405-0911-4928-A563-C43C30FC6865 - c5b5c780bb026fcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.initServer(port: Swift.UInt16) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6F426405-0911-4928-A563-C43C30FC6865 - c5b5c780bb026fed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.initServer(port: Swift.UInt16) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6F426405-0911-4928-A563-C43C30FC6865 - c5b5c780bb026ee5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.initServer(port: Swift.UInt16) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80D4BC3C-6E65-45D5-9B15-9A108716662C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "btnConnectClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80D4BC3C-6E65-45D5-9B15-9A108716662C - 80ac57b6a14bc63e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.btnConnectClick(Any) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "80D4BC3C-6E65-45D5-9B15-9A108716662C - 80ac57b6a14bc63e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.btnConnectClick(Any) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "80D4BC3C-6E65-45D5-9B15-9A108716662C - 80ac57b6a14bc67c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.btnConnectClick(Any) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "80D4BC3C-6E65-45D5-9B15-9A108716662C - 80ac57b6a14bc67c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.btnConnectClick(Any) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F254EFA7-7E50-4D22-BF47-71BB2437528E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/TCPServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "stateDidChange(to:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F254EFA7-7E50-4D22-BF47-71BB2437528E - 811cf469885b0311"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.TCPServer.stateDidChange(to: Network.NWListener.State) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "F254EFA7-7E50-4D22-BF47-71BB2437528E - 811cf469885b04fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.TCPServer.stateDidChange(to: Network.NWListener.State) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31D74C63-EBE9-4F5F-822A-E3F1C40532A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/TCPServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "didAccept(nwConnection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31D74C63-EBE9-4F5F-822A-E3F1C40532A2 - 7e96c4246ea15fce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.TCPServer.didAccept(nwConnection: Network.NWConnection) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "31D74C63-EBE9-4F5F-822A-E3F1C40532A2 - 7e96c4246ea15f2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.TCPServer.didAccept(nwConnection: Network.NWConnection) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "31D74C63-EBE9-4F5F-822A-E3F1C40532A2 - 7e96c4246ea15f2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.TCPServer.didAccept(nwConnection: Network.NWConnection) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46F83752-15C4-4D25-A927-41A11D7DAD76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/TCPServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "send(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46F83752-15C4-4D25-A927-41A11D7DAD76 - bcabfb84ee7f3b49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in TCPClient.ServerConnection.send(data: Foundation.Data) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "46F83752-15C4-4D25-A927-41A11D7DAD76 - bcabfb84ee7f3ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in TCPClient.ServerConnection.send(data: Foundation.Data) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "46F83752-15C4-4D25-A927-41A11D7DAD76 - bcabfb84ee7f3a60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Network.NWError&gt;) -&gt; () in TCPClient.ServerConnection.send(data: Foundation.Data) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67AD5D8B-207D-4B19-8F0A-57AF5574A1C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "tcpServerDidReceive(connection:data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67AD5D8B-207D-4B19-8F0A-57AF5574A1C6 - 3dd3b05aca096a02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.tcpServerDidReceive(message: Swift.String) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "67AD5D8B-207D-4B19-8F0A-57AF5574A1C6 - 3dd3b05aca096555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.tcpServerDidReceive(message: Swift.String) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "67AD5D8B-207D-4B19-8F0A-57AF5574A1C6 - 592d1da70b7d3556"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.tcpServerDidReceive(connection: Network.NWConnection, data: Foundation.Data) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+               <Location
+                  uuid = "67AD5D8B-207D-4B19-8F0A-57AF5574A1C6 - 592d1da70b7d34d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.tcpServerDidReceive(connection: Network.NWConnection, data: Foundation.Data) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C5A80B2-3D8A-46E6-BEA8-CF6005918A0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "stream(_:handle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9EE2418-F605-469A-A0DF-0F16F29C18CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/TCPServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "sendToAll(data:useHex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51AB3683-2C3F-4F00-BE4A-C3648FF0F41C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "tcpServerDidReceive(connection:data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F164B84-1CF7-4339-BAE3-1CFCA4FABB50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "send(message:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87C352C5-3564-4DB1-B6A1-4183F0DB61D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/TCPServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "sendToAll(data:useHex:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87C352C5-3564-4DB1-B6A1-4183F0DB61D1 - eb9ca065408da27e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.TCPServer.sendToAll(data: Swift.String, useHex: Swift.Bool) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "87C352C5-3564-4DB1-B6A1-4183F0DB61D1 - eb9ca065408da27e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.TCPServer.sendToAll(data: Swift.String, useHex: Swift.Bool) -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/TCPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF0D6736-7EF2-4174-8AC8-26A518FE5785"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCPClient/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF0D6736-7EF2-4174-8AC8-26A518FE5785 - 2183526082308478"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "2372">
+               </Location>
+               <Location
+                  uuid = "CF0D6736-7EF2-4174-8AC8-26A518FE5785 - 2183526082308478"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCPClient.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TCPClient"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/riccardo/Documents/TCPClient/TCPClient/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

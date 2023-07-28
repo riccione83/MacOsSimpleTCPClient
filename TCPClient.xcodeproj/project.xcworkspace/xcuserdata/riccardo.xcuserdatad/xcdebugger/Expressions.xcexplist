@@ -6,6 +6,14 @@
          contextName = "closure #1 in TCP_Communicator.send(message:):TCPClass.swift">
       </ContextState>
       <ContextState
+         contextName = "ViewController.send(message:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "server">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "TCP_Communicator.send(message:):TCPClass.swift">
          <PersistentStrings>
             <PersistentString

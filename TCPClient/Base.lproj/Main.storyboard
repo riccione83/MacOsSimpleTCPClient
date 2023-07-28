@@ -834,6 +834,16 @@
                                     <action selector="btnCANClick:" target="XfG-lQ-9wD" id="IJu-fw-7IG"/>
                                 </connections>
                             </button>
+                            <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="X9i-CH-fIL">
+                                <rect key="frame" x="470" y="612" width="104" height="18"/>
+                                <buttonCell key="cell" type="check" title="Server mode" bezelStyle="regularSquare" imagePosition="left" state="on" inset="2" id="W42-x8-7OP">
+                                    <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
+                                    <font key="font" metaFont="system"/>
+                                </buttonCell>
+                                <connections>
+                                    <action selector="checkServerModeClick:" target="XfG-lQ-9wD" id="fOj-tu-fgG"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="pMK-SQ-Hnn" secondAttribute="trailing" constant="20" symbolic="YES" id="22h-Pg-xxh"/>
@@ -857,7 +867,9 @@
                             <constraint firstItem="KDo-Lw-R7f" firstAttribute="leading" secondItem="HD2-cn-TDn" secondAttribute="trailing" constant="12" symbolic="YES" id="cSS-wS-ycq"/>
                             <constraint firstItem="KDo-Lw-R7f" firstAttribute="baseline" secondItem="dU9-k0-HT7" secondAttribute="baseline" id="dD8-Ys-ctO"/>
                             <constraint firstItem="eRE-ud-Gwy" firstAttribute="baseline" secondItem="EdQ-p6-CDA" secondAttribute="baseline" id="deR-aA-j7o"/>
+                            <constraint firstItem="X9i-CH-fIL" firstAttribute="centerY" secondItem="d3g-Cw-HU5" secondAttribute="centerY" id="hcl-om-R9G"/>
                             <constraint firstItem="pMK-SQ-Hnn" firstAttribute="leading" secondItem="m2S-Jp-Qdl" secondAttribute="leading" constant="20" symbolic="YES" id="hfa-hb-blG"/>
+                            <constraint firstItem="X9i-CH-fIL" firstAttribute="leading" secondItem="d3g-Cw-HU5" secondAttribute="trailing" constant="20" id="i2m-1p-J07"/>
                             <constraint firstItem="eRE-ud-Gwy" firstAttribute="top" secondItem="pMK-SQ-Hnn" secondAttribute="bottom" constant="10" symbolic="YES" id="j2J-H0-czy"/>
                             <constraint firstAttribute="trailing" secondItem="dU9-k0-HT7" secondAttribute="trailing" constant="207" id="kJo-k6-1BX"/>
                             <constraint firstItem="pMK-SQ-Hnn" firstAttribute="trailing" secondItem="hVp-y7-Qp3" secondAttribute="trailing" id="lxT-FL-Hiu"/>
@@ -865,11 +877,13 @@
                             <constraint firstItem="m9r-er-wMG" firstAttribute="leading" secondItem="OF7-c0-cGS" secondAttribute="trailing" constant="8" symbolic="YES" id="oYL-OL-Uvd"/>
                             <constraint firstItem="eRE-ud-Gwy" firstAttribute="firstBaseline" secondItem="EdQ-p6-CDA" secondAttribute="baseline" id="qAi-gU-0ZD"/>
                             <constraint firstItem="WZ7-FT-xKr" firstAttribute="baseline" secondItem="d3g-Cw-HU5" secondAttribute="baseline" id="v4T-XN-Mne"/>
+                            <constraint firstItem="X9i-CH-fIL" firstAttribute="baseline" secondItem="hVp-y7-Qp3" secondAttribute="firstBaseline" id="xnC-Ow-gZC"/>
                         </constraints>
                     </view>
                     <connections>
                         <outlet property="btnConnect" destination="hVp-y7-Qp3" id="DHz-iE-TjF"/>
                         <outlet property="btnSend" destination="DgN-UC-DhF" id="nC2-C9-Ibf"/>
+                        <outlet property="checkServerMode" destination="X9i-CH-fIL" id="hqK-vF-lKv"/>
                         <outlet property="lblData" destination="pMK-SQ-Hnn" id="bVC-KO-q2f"/>
                         <outlet property="lblHost" destination="m9r-er-wMG" id="0ju-xY-WHR"/>
                         <outlet property="lblPort" destination="d3g-Cw-HU5" id="KA4-E1-4jZ"/>

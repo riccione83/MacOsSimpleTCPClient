@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B803B382A73F4490046DD19 /* TCPServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B803B372A73F4490046DD19 /* TCPServer.swift */; };
 		8B893E592A72BD58001D4EC0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B893E582A72BD58001D4EC0 /* AppDelegate.swift */; };
 		8B893E5B2A72BD58001D4EC0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B893E5A2A72BD58001D4EC0 /* ViewController.swift */; };
 		8B893E5D2A72BD59001D4EC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B893E5C2A72BD59001D4EC0 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B803B372A73F4490046DD19 /* TCPServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCPServer.swift; sourceTree = "<group>"; };
 		8B893E552A72BD58001D4EC0 /* TCPClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TCPClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B893E582A72BD58001D4EC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B893E5A2A72BD58001D4EC0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				8B893E612A72BD59001D4EC0 /* TCPClient.entitlements */,
 				8B893E672A72BEC2001D4EC0 /* TCPClass.swift */,
 				8B893E692A73910B001D4EC0 /* Extensions.swift */,
+				8B803B372A73F4490046DD19 /* TCPServer.swift */,
 			);
 			path = TCPClient;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B893E682A72BEC2001D4EC0 /* TCPClass.swift in Sources */,
+				8B803B382A73F4490046DD19 /* TCPServer.swift in Sources */,
 				8B893E5B2A72BD58001D4EC0 /* ViewController.swift in Sources */,
 				8B893E592A72BD58001D4EC0 /* AppDelegate.swift in Sources */,
 				8B893E6A2A73910B001D4EC0 /* Extensions.swift in Sources */,
