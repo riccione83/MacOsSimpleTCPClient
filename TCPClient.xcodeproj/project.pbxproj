@@ -11,6 +11,8 @@
 		8B893E5B2A72BD58001D4EC0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B893E5A2A72BD58001D4EC0 /* ViewController.swift */; };
 		8B893E5D2A72BD59001D4EC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B893E5C2A72BD59001D4EC0 /* Assets.xcassets */; };
 		8B893E602A72BD59001D4EC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B893E5E2A72BD59001D4EC0 /* Main.storyboard */; };
+		8B893E682A72BEC2001D4EC0 /* TCPClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B893E672A72BEC2001D4EC0 /* TCPClass.swift */; };
+		8B893E6A2A73910B001D4EC0 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B893E692A73910B001D4EC0 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		8B893E5C2A72BD59001D4EC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B893E5F2A72BD59001D4EC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B893E612A72BD59001D4EC0 /* TCPClient.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TCPClient.entitlements; sourceTree = "<group>"; };
+		8B893E672A72BEC2001D4EC0 /* TCPClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCPClass.swift; sourceTree = "<group>"; };
+		8B893E692A73910B001D4EC0 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				8B893E5C2A72BD59001D4EC0 /* Assets.xcassets */,
 				8B893E5E2A72BD59001D4EC0 /* Main.storyboard */,
 				8B893E612A72BD59001D4EC0 /* TCPClient.entitlements */,
+				8B893E672A72BEC2001D4EC0 /* TCPClass.swift */,
+				8B893E692A73910B001D4EC0 /* Extensions.swift */,
 			);
 			path = TCPClient;
 			sourceTree = "<group>";
@@ -131,8 +137,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B893E682A72BEC2001D4EC0 /* TCPClass.swift in Sources */,
 				8B893E5B2A72BD58001D4EC0 /* ViewController.swift in Sources */,
 				8B893E592A72BD58001D4EC0 /* AppDelegate.swift in Sources */,
+				8B893E6A2A73910B001D4EC0 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +277,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = TCPClient/TCPClient.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -296,6 +305,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = TCPClient/TCPClient.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
